@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "project02js",
-    "slug": "project02js",
+    "name": "Aora",
+    "scheme": "aora",
+    "slug": "aora",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
