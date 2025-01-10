@@ -24,7 +24,8 @@
     "tailwindcss": "^3.4.17"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "react-native-css-transformer": "^2.0.0"
   },
   "private": true
 }
